@@ -95,6 +95,18 @@ Important Note:
 
 Abhiyan Limbu
 
+# Cloudfare DNS
+
+![alt text](assets/dns.png)
+
+# AWS Security Groups
+
 ![Security Group](assets/aws-securitygroup.png)
+
+# Before HTTPS
+
 ![HTTP Method](assets/notsecurehttp.png)
+
+# After HTTPS
+
 ![HTTPS Method](assets/securedhttps.png)
