@@ -74,6 +74,7 @@ sudo ln -s /etc/nginx/sites-available/portfolio-web.conf /etc/nginx/sites-enable
 ```
 
 5.Install SSL using SSL_Setup_Guide.md
+[SSL_Guide](SSL_Setup_Guide.md)
 
 6.Test & Reload Nginx
 
