@@ -37,7 +37,7 @@ Domain → Nginx → Web Server (EC2)
 
 ## Setup Steps
 
-1. Host EC2 Instances and make sure publci_ip is pointed towards your domaim
+1. Host EC2 Instances and make sure public_ip is pointed towards your domaim
 2. Install Nginx
 3. Configure nginx folder conf file in /etc/nginx/sites-available
 4. Enable site using symlink to sites-enabled and remove other files(optional)
