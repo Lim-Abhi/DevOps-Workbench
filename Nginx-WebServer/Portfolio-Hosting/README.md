@@ -41,7 +41,7 @@ Domain → Nginx → Web Server (EC2)
 2. Install Nginx
 3. Configure nginx folder conf file in /etc/nginx/sites-available
 4. Enable site using symlink to sites-enabled and remove other files(optional)
-5. Configure index and css file in /var/www/html/YourOwnFolderName/
+5. Configure index and css file in /var/www/html/YourOwnFolder/
 6. Restart Nginx
 7. Setup SSL using Certbot
 
